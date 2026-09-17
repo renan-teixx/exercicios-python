@@ -1,4 +1,5 @@
 print('Programa que calcula área de uma parede e quantidade de litros de tinta necessários para pintá-la.')
+# Observação: 1l de tinta consegue pintar 2m² da parede.
 
 altura = float(input('Digite a altura da parede: '))
 largura = float(input('Digite a largura da parede: '))
