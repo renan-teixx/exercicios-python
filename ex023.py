@@ -1,4 +1,4 @@
-print('Programa que separa os digitos de um número digitado.')
+print('Programa que apresenta as ordens de um número digitado.')
 
 numero = int(input('Informe um número inteiro: '))
 
