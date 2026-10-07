@@ -1,6 +1,6 @@
 from random import randint
 
-print('Programa que faz um jogo de advinhação com o usuário usando while.')
+print('Programa que faz um jogo de adivinhação com o usuário usando while.')
 
 computador = randint(0, 10)
 
