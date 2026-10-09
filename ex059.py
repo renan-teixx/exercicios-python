@@ -1,3 +1,4 @@
+# O Sleep foi importado apenas para ter um efeito legal na saída
 from time import sleep
 
 print('Programa que cria um menu de opções para uma calculadora simples.')
@@ -40,4 +41,3 @@ while opcao != 5:
     else:
         print('Opção inválida, tente novamente.')
     print('=-=' * 10)
-    
